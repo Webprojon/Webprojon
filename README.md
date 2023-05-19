@@ -1,4 +1,5 @@
 ## Frontend Developer from Uzbekistan 👨‍💻
+[![Webprojon's GitHub status ](https://github-readme-stats.vercel.app/api?username=Webprojon&show_icons=true&theme=dark)](https://github.com/Webprojon)
 
 ### Languages and tools that I work with:
 
