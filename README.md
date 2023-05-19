@@ -2,6 +2,7 @@
 
 ### Languages and tools that I work with:
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&)
 <code><img src="https://icon-library.com/images/icon-html5/icon-html5-7.jpg" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="23px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="30px"></code>
