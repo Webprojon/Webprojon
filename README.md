@@ -12,11 +12,9 @@
 <code><img src="https://miro.medium.com/max/325/0*tTvqxZBtyiDw3vVw.png" width="25px"></code>
 
 <br />
-
-📍 Current location: Warsaw, Poland. <br />
  📨  How to reach me: tokhirjon.interview@mail.ru
  
  ### Contact Me At 
  
- [![Instagramhttps://www.instagram.com/tokhirjon_khasanov_coder/](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=#1DA1F2)(https://www.instagram.com/tokhirjon_khasanov_coder/)  [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1DA1F2)](https://t.me/Muzaffarxon_dev) [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=#1DA1F2)](https://www.linkedin.com/in/muzaffarxon-abdusalomov-8430b021a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGLNEgPTMSlu%2BNEirN0MvQQ%3D%3D) [![Facebook](https://img.shields.io/badge/Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=#1DA1F2)](https://www.facebook.com/MuzaffarxonAbdusalomov)
+[![Instagramhttps://www.instagram.com/tokhirjon_khasanov_coder/](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=#1DA1F2)](https://www.instagram.com/tokhirjon_khasanov_coder/)  [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1DA1F2)](https://t.me/Reacterman) [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=#1DA1F2)](https://www.linkedin.com/in/tokhirjon-khasanov/) [![Facebook](https://img.shields.io/badge/Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=#1DA1F2)](https://www.facebook.com/profile.php?id=100077839704036)
 
