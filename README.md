@@ -15,4 +15,4 @@
 <br />
 
 📍 Current location: Warsaw, Poland. <br />
- 📨  How to reach me: tokhirjon0107@gmail.com
+ 📨  How to reach me: tokhirjon.interview@mail.ru
