@@ -1,4 +1,4 @@
-### Hi there 👋
+## Frontend Developer from Uzbekistan 👨‍💻
 
 ### Languages and tools that I work with:
 
