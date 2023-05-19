@@ -2,16 +2,13 @@
 
 ### Languages and tools that I work with:
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&)
-![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E) ![React.js](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React&logoColor=61DAFB) ![NEXT](https://img.shields.io/badge/next-090909?style=for-the-badge&logo=next.js&logoColor=white&)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&) ![CSS](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6) ![SASS](https://img.shields.io/badge/SASS-090909?style=for-the-badge&logo=SASS&logoColor=1572B6) 
+![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E) ![React.js](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React&logoColor=61DAFB)
 <img src="https://camo.githubusercontent.com/970d31581631576cd3f49c6fb4f75faf129373cdc208526e8f64bae88c73c152/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3433303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d426f6f747374726170266c6f676f436f6c6f723d7768697465"/>
-<code><img src="https://icon-library.com/images/icon-html5/icon-html5-7.jpg" width="30px"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="23px"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="30px"></code>
-<code><img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" width="27px"></code>
-<code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="26px"></code>
+
+<img src="https://camo.githubusercontent.com/709e211a1661cd63e675035bcba203faaa272d057887aee138e1c2d4f634c48b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4669676d612d726762283234322c2037382c203330293f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465"/>  <img src="https://camo.githubusercontent.com/cb3c8adf7b1a07a0236bf33802aa7919a64df5dd3a12e4b7f5bff214fba480dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52454143545f484f4f4b532d3332353061383f7374796c653d666f722d7468652d6261646765266c6f676f3d5245414354266c6f676f436f6c6f723d"/>  <img src="https://camo.githubusercontent.com/a4ca6b71d62aa6f56199242308ccb9619737bc6d78aeb0599ba5978866e72789/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163745f526f757465722d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d6f72616e6765"/> <img src="https://camo.githubusercontent.com/7f4931495ba3a8b88b75935ec00486ccb40d30b8d613829df0bdf86eaf2d8abb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666f722d7468652d6261646765266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465"/>
+
 <code><img src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg" width="26px"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="28px"></code>
 <code><img src="https://miro.medium.com/max/325/0*tTvqxZBtyiDw3vVw.png" width="25px"></code>
 
