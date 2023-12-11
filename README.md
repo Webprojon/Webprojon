@@ -34,28 +34,6 @@ Front-end Developer | Computer Engineering Student | Daily Learner
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-</p>
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-
-<img align="left" width="47%" height="200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mavlonbek17?cardType=level&theme=react"/>
-
-<img align="right" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavlonbek17&layout=compact&cardType=level&theme=react"/>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
-<a href="https://github.com/Mavlonbek17/ToDoApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mavlonbek17&repo=ToDoApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-</div> -->
-
 
 # Hi, I am Tokhirjon Khasanov 💻
 
@@ -63,10 +41,8 @@ Front-end Developer | Computer Engineering Student | Daily Learner
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+stack+Web+Developer;Love+Coding;Good+at+Python;Always-Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-Front-end Developer | Computer Science Student | Daily Learner
+Front-end Developer | Computer Engineering Student | Daily Learner
 -----------------------------------------------------------------
-
-Coder
 * 🌍  I live in Warsaw, Poland
 * ✉️  You can contact me at [tokhirjon.interview@mail.ru](mailto:tokhirjon.interview@mail.ru)
 * 🧠  Javascript & React & Next
