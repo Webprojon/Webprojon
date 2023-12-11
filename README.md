@@ -19,13 +19,13 @@
 
 //////////////////////////////////////////////////
 
-<!-- Hi 👋 My name is Mavlonbek Zaynobiddinov
+<!-- Hi 👋 My name is Tokhirjon Khasanov
 ============================
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+stack+Web+Developer;Love+Coding;Good+at+Python;Always-Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+Developer;Love+Coding;Good+at+Javascript+React+Next;Always-Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-Software Engineer | Computer Science Student | Daily Learner
+Front-end Developer | Computer Engineering Student | Daily Learner
 -----------------------------------------------------------------
 
 
@@ -74,7 +74,7 @@ Software Engineer | Computer Science Student | Daily Learner
   <img src="https://img.shields.io/github/followers/Mavlonbek17?label=Followers%20&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?username=Mavlonbek17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Mavlonbek17.Mavlonbek17" alt="Profile Visitor"/>
 
 
-# Hi, I am Mavlonbek Zaynobiddinov (💻💖☕)
+# Hi, I am Tokhirjon Khasanov 💻
 
 📢 Nominate ([@Mavlonbek17](https://github.com/Mavlonbek17)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate My hardwork and dedication to open source.
 
@@ -155,34 +155,3 @@ Python
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Mavlonbek17&theme=tokyonight)
 
 <!-- </details> -->
-
-<!-- <details> -->
-    * 📈 GITHUB STATUS
-[![Mavlonbek's Github stats](https://github-readme-stats.vercel.app/api?username=Mavlonbek17&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Mavlonbek17/Mavlonbek17/blob/main/README.md) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mavlonbek17&layout=compact&theme=tokyonight)](https://github.com/Mavlonbek17/Mavlonbek17/blob/main/README.md)
-
-
-
-<!-- <details> -->
-
-
-
-
-<!-- </details> -->
-
-<!-- markdownlint-enable MD033 -->
-<!-- 
-![Metrics](https://github.com/warengonzaga/warengonzaga/blob/main/github-metrics.svg)
-
----
-
-💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
-
-[personal website]: https://warengonzaga.com
-[business website]: https://wgcompanyhq.com
-[biolink]: https://bio.link/warengonzaga
-[facebook]: https://facebook.com/warengonzagaofficial
-[twitter]: https://twitter.com/warengonzaga
-[instagram]: https://instagram.com/wrngnzg
-[youtube]: https://youtube.com/warengonzaga -->
-
