@@ -1,5 +1,5 @@
-## Frontend Developer from Uzbekistan 👨‍💻
-
+<!-- Hi 👋 My name is Tokhirjon Khasanov
+============================
 [![Webprojon's GitHub status ](https://github-readme-stats.vercel.app/api?username=Webprojon&show_icons=true&theme=dark)](https://github.com/Webprojon)
 
 ### Languages and tools that I work with:
@@ -12,15 +12,9 @@
 <img src="https://camo.githubusercontent.com/cb3c8adf7b1a07a0236bf33802aa7919a64df5dd3a12e4b7f5bff214fba480dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52454143545f484f4f4b532d3332353061383f7374796c653d666f722d7468652d6261646765266c6f676f3d5245414354266c6f676f436f6c6f723d"/>  <img src="https://camo.githubusercontent.com/a4ca6b71d62aa6f56199242308ccb9619737bc6d78aeb0599ba5978866e72789/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163745f526f757465722d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d6f72616e6765"/> 
 <img src="https://camo.githubusercontent.com/324ecb8e3920e6c4826b60f2afd553c8a1b6ea87782030de0eaa65bb8c8b2919/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"/> <img src="https://camo.githubusercontent.com/9bceb931d755afc93679b5b7fbdffd68403e3c6bb78fe29d1de662cac4be014a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"/>
 <img src="https://miro.medium.com/max/325/0*tTvqxZBtyiDw3vVw.png" width="30px">
- 
- ### Contact Me
- 
-[![Instagramhttps://www.instagram.com/tokhirjon_khasanov_coder/](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=#1DA1F2)](https://www.instagram.com/tokhirjon_khasanov_coder/)  [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1DA1F2)](https://t.me/Reacterman) [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=#1DA1F2)](https://www.linkedin.com/in/tokhirjon-khasanov/) [![Facebook](https://img.shields.io/badge/Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=#1DA1F2)](https://www.facebook.com/profile.php?id=100077839704036)
 
 //////////////////////////////////////////////////
 
-<!-- Hi 👋 My name is Tokhirjon Khasanov
-============================
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+Developer;Love+Coding;Good+at+Javascript+React+Next;Always-Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
@@ -93,22 +87,7 @@ Coder
 - [The Perfect Domain Name for your JavaScript Library or Framework](https://blog.warengonzaga.com/the-perfect-domain-name-for-your-javascript-library-or-framework) -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- </details> --> -->
+ ### Contact Me
+ 
+[![Instagramhttps://www.instagram.com/tokhirjon_khasanov_coder/](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=#1DA1F2)](https://www.instagram.com/tokhirjon_khasanov_coder/)  [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1DA1F2)](https://t.me/Reacterman) [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=#1DA1F2)](https://www.linkedin.com/in/tokhirjon-khasanov/) [![Facebook](https://img.shields.io/badge/Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=#1DA1F2)](https://www.facebook.com/profile.php?id=100077839704036)
 
-<!-- <details>
-    <summary>&#128187 <b>GitHub Activities</b></summary><br/>
-
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#12](https://github.com/ndujaLabs/metashu/issues/12) in [ndujaLabs/metashu](https://github.com/ndujaLabs/metashu) -->
-
-<!--END_SECTION:activity-->
-
-<!-- </details> --> * 🏆 GITHUB AWARDS
-
-<!-- <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/> -->
-
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Mavlonbek17&theme=tokyonight)
-
-<!-- </details> -->
