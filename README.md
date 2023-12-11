@@ -13,15 +13,6 @@
 <img src="https://camo.githubusercontent.com/324ecb8e3920e6c4826b60f2afd553c8a1b6ea87782030de0eaa65bb8c8b2919/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"/> <img src="https://camo.githubusercontent.com/9bceb931d755afc93679b5b7fbdffd68403e3c6bb78fe29d1de662cac4be014a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"/>
 <img src="https://miro.medium.com/max/325/0*tTvqxZBtyiDw3vVw.png" width="30px">
 
-//////////////////////////////////////////////////
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+Developer;Love+Coding;Good+at+Javascript+React+Next;Always-Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
-
-Front-end Developer | Computer Engineering Student | Daily Learner
------------------------------------------------------------------
-
 
 ### Skills
 <p align="left">
@@ -35,11 +26,6 @@ Front-end Developer | Computer Engineering Student | Daily Learner
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 
-# Hi, I am Tokhirjon Khasanov 💻
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+stack+Web+Developer;Love+Coding;Good+at+Python;Always-Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
 
 Front-end Developer | Computer Engineering Student | Daily Learner
 -----------------------------------------------------------------
