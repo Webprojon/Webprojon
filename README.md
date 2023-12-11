@@ -1,4 +1,4 @@
-<!-- Hi 👋 My name is Tokhirjon Khasanov
+ Hi 👋 My name is Tokhirjon Khasanov
 ============================
 [![Webprojon's GitHub status ](https://github-readme-stats.vercel.app/api?username=Webprojon&show_icons=true&theme=dark)](https://github.com/Webprojon)
 
