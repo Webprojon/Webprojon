@@ -2,14 +2,14 @@
 ============================
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+Developer;Love+Coding;Good+at+Javascript+&+Typescript,+React+&+Next;Always-Learning&font=Fira%20Code&center=true&width=440&height=45&color=1fd655&vCenter=true&size=28"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+Developer;Love+Coding;Good+at+Javascript,React,Next;Always-Learning&font=Fira%20Code&center=true&width=440&height=45&color=1fd655&vCenter=true&size=28"></a>
 </p>
 
  ## Computer Engineering Student | Daily Learner
 
 * 🌍  I live in Warsaw, Poland
 * ✉️  You can contact me at [tokhirjon.interview@mail.ru](mailto:tokhirjon.interview@mail.ru)
-* 🧠  Javascript & React.js & Next.js
+* 🧠  Javascript & Typescript & React.js & Next.js
 * 🤝  I'm open to collaborate on interesting, fun, cool projects
 * 👨‍💻  I Love Coding | And Open for Job Opportunities
 
@@ -17,7 +17,7 @@
 
 ## Languages and Tools
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,next,nodejs,github,postman,figma,github&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,next,nodejs,github,postman,figma,github&theme=light)
 
 
  ## Contact Me
