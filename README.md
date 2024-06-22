@@ -17,7 +17,7 @@
 
 ## Languages and Tools
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,next,nodejs,express.js,github,postman,figma,prisma&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,next,nodejs,expressjs,github,postman,figma,prisma&theme=light)
 
 
  ## Contact Me
